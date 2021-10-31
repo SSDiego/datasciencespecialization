@@ -20,3 +20,5 @@ head(airquality)
 | argument data set equal to airquality.
 
 xyplot(y ~ x | Ozone * Wind, airquality)
+
+teste
